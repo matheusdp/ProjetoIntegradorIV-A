@@ -61,4 +61,4 @@ mvn test
 - Java JDK 17 (ou superior)
 - Maven 3.6+
 
-*Projeto desenvolvido como exercício de aprendizado em Java, Maven e testes automatizados.*
+*Projeto desenvolvido como exercício prático de aprendizado em Java, integrando conceitos das disciplinas de `Gerência de Configuração de Software` e `Gerência de Qualidade de Software`. O projeto aplica conhecimentos em controle de versão com Git e em testes automatizados para assegurar a qualidade do código*
